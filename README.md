@@ -1,8 +1,9 @@
 # 免费进群提要求，项目持续更新
 
+<div style="display: flex;flex-direction: row">
+    <img src="./wx.jpg" width="49%">
+</div>
 
-
-微信
 ### 功能截图
 <div style="display: flex;flex-direction: row">
     <img src="./1713170533555.jpg" width="49%">
