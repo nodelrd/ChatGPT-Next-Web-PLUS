@@ -1,4 +1,4 @@
-### 扫一扫，免费进群提要求，项目持续更新
+### 扫一扫，免费进群提，项目持续更新
 
 <div style="display: flex;flex-direction: row">
     <img src="./wx.jpg" width="49%">
