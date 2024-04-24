@@ -9,7 +9,9 @@
     <img src="./1713170533555.jpg" width="49%">
     <img src="./1713170761198.jpg" width="49%">
 </div>
-
+<div style="display: flex;flex-direction: row">
+    <img src="./1565.jpg" width="98%">
+</div>
 
 
 ### 收费标准
