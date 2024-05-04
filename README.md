@@ -12,6 +12,9 @@
 <div style="display: flex;flex-direction: row">
     <img src="./1565.jpg" width="98%">
 </div>
+<div style="display: flex;flex-direction: row">
+    <img src="./1234333.jpg" width="98%">
+</div>
 
 
 ### 收费标准
